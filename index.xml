@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Saheb Singh</title>
+    <link>https://robinsaheb.github.io/Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Saheb Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://robinsaheb.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intelligent Door Lock System</title>
+      <link>https://robinsaheb.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Fri, 01 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://robinsaheb.github.io/Portfolio/post/project-2/</guid>
+      <description>Designed cloud architecture for an intelligent door lock which can recognize a guest, greet the guest with name, notify the owner about the guest and remember an unknown guest.
+  Implemented AWS Lambda for reading image uploaded at S3, searching face using AWS Rekognition, using the result by Rekognition to search name from AWS DynamoDB and return the name to the Alexa if found. Using AWS SNS for providing notification to the user.</description>
+    </item>
+    
+    <item>
+      <title>Hate Speech Target Detection</title>
+      <link>https://robinsaheb.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Tue, 15 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://robinsaheb.github.io/Portfolio/post/project-1/</guid>
+      <description>Social media platforms have been hailed as “politically disruptive communication technologies”. During the U.S. election of 2020, countless individuals expressed opinions and engaged with politicians, the press, and each other on social media, sometimes using hateful language. We conducted a study where we used hate speech detection frameworks to analyze the language use of Twitter posts from supporters of different political parties and presidential candidates. We created a hate speech classifier that was able to detect which group was the target of the hate speech.</description>
+    </item>
+    
+    <item>
+      <title>Warehouse Inventory Management</title>
+      <link>https://robinsaheb.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Tue, 11 Aug 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://robinsaheb.github.io/Portfolio/post/project-3/</guid>
+      <description>Met with Stakeholders to gather business requirements.
+  Established and streamlined the ETL pipelines using SQL programming to improve the data processing time of projects by 20% including aggregate and disaggregate tables and remove the extraneous data from company datasets.
+  Decreased labor and shipping cost by 10% using spark for forecasting capacity demand and supply using Time Series Data Analysis
+  Monitored supply chain warehouse inventory fluctuations (picking, packing, shipping time and status), and warehouse employee productivity analysis using ad-hoc dashboards using Power BI.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://robinsaheb.github.io/Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinsaheb.github.io/Portfolio/contact/</guid>
+      <description>   Platform URL     Website: https://robinsaheb.github.io/Portfolio/   LinkedIn: https://www.linkedin.com/in/saheb-singh7   GitHub: https://github.com/robinsaheb    </description>
+    </item>
+    
+  </channel>
+</rss>
